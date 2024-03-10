@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\cn\year3\3-2\cn332\django-social-auth\.venv
+set VIRTUAL_ENV=D:\cn\year3\3-2\cn332\withProvider\django-social-auth\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
